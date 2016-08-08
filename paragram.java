@@ -10,12 +10,6 @@ public static void main(String[] args) {
 	a=sc.nextLine();
 	a=a.toLowerCase();
 	String b=new String();
-	//String g[]=a.split(" ");
-	//System.out.println(g[0]);
-/*	for(int i=0;i<g.length;i++)
-	{
-		b=b+g[i];
-	}*/
 	System.out.println(a);
 	for(int i=97;i<=122;i++)
 	{
